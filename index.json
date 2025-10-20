@@ -1,0 +1,36 @@
+{
+  "version": "v0.1.2",
+  "themes": {
+    "dark": [
+      {
+        "publisher": "RonitGandhi",
+        "extension": "oXocarbonix",
+        "theme": "oXocarbonix",
+        "origin": "Marketplace",
+        "license": "MIT"
+      },
+      {
+        "publisher": "RonitGandhi",
+        "extension": "oXocarbonix",
+        "theme": "oXocarbonix-storm",
+        "origin": "Marketplace",
+        "license": "MIT"
+      },
+      {
+        "publisher": "RonitGandhi",
+        "extension": "oXocarbonix",
+        "theme": "oXocarbonix-twilight",
+        "origin": "Marketplace",
+        "license": "MIT"
+      },
+      {
+        "publisher": "RonitGandhi",
+        "extension": "oXocarbonix",
+        "theme": "oXocarbonix-eclipse",
+        "origin": "Marketplace",
+        "license": "MIT"
+      }
+    ],
+    "light": []
+  }
+}
