@@ -29,6 +29,13 @@
         "theme": "oXocarbonix-eclipse",
         "origin": "Marketplace",
         "license": "MIT"
+      },
+      {
+        "publisher": "RonitGandhi",
+        "extension": "oXocarbonix",
+        "theme": "oXocarbonix-lugoues",
+        "origin": "Marketplace",
+        "license": "MIT"
       }
     ],
     "light": []
